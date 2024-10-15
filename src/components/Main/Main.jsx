@@ -32,7 +32,7 @@ const Main = () => {
                     <img src={assets.message_icon} alt="" />
                 </div>
                 <div className="card">
-                    <p>STell me about React js and React native</p>
+                    <p>Tell me about React js and React native</p>
                     <img src={assets.code_icon} alt="" />
                 </div>
             </div>
